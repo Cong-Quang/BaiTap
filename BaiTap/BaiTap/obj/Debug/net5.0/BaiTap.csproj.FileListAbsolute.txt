@@ -1,0 +1,16 @@
+D:\C#\BaiTap\BaiTap\bin\Debug\net5.0\BaiTap.exe
+D:\C#\BaiTap\BaiTap\bin\Debug\net5.0\BaiTap.deps.json
+D:\C#\BaiTap\BaiTap\bin\Debug\net5.0\BaiTap.runtimeconfig.json
+D:\C#\BaiTap\BaiTap\bin\Debug\net5.0\BaiTap.runtimeconfig.dev.json
+D:\C#\BaiTap\BaiTap\bin\Debug\net5.0\BaiTap.dll
+D:\C#\BaiTap\BaiTap\bin\Debug\net5.0\BaiTap.pdb
+D:\C#\BaiTap\BaiTap\obj\Debug\net5.0\BaiTap.csproj.AssemblyReference.cache
+D:\C#\BaiTap\BaiTap\obj\Debug\net5.0\BaiTap.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BaiTap\BaiTap\obj\Debug\net5.0\BaiTap.AssemblyInfoInputs.cache
+D:\C#\BaiTap\BaiTap\obj\Debug\net5.0\BaiTap.AssemblyInfo.cs
+D:\C#\BaiTap\BaiTap\obj\Debug\net5.0\BaiTap.csproj.CoreCompileInputs.cache
+D:\C#\BaiTap\BaiTap\obj\Debug\net5.0\BaiTap.dll
+D:\C#\BaiTap\BaiTap\obj\Debug\net5.0\refint\BaiTap.dll
+D:\C#\BaiTap\BaiTap\obj\Debug\net5.0\BaiTap.pdb
+D:\C#\BaiTap\BaiTap\obj\Debug\net5.0\BaiTap.genruntimeconfig.cache
+D:\C#\BaiTap\BaiTap\obj\Debug\net5.0\ref\BaiTap.dll
